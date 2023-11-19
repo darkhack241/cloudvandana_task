@@ -20,8 +20,7 @@ your own logic in the assignment would be worth considering.
 * Create a basic calculator using HTML, CSS, and JavaScript with the functionality of add, 
 subtract, multiply and divide. <br>
 
-* LiveLink- https://ankit0315.github.io/calculator/
-
+* LiveLink- https://clouudvandanacalculator.netlify.app
 3B . Survey Form <br>
 * Create a survey form with Fields; First Name, Last Name, Date of Birth, Country (dropdown), 
 Gender (checkbox), Profession, email, and mobile number. All the input fields are 
@@ -30,5 +29,5 @@ form while clicking on submit, first, it will check all the fields and necessary
 then a popup will appear displaying all the selected values with the label in front of it. On 
 closing the popup, the form should reset all the values.
 
-* LiveLink- https://ankit0315.github.io/Survey-Form/
+* LiveLink- https://surveyformindia.netlify.app/
   
